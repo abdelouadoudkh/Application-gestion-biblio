@@ -1,0 +1,116 @@
+body {
+    background-color: #ebebeb;
+   
+    margin: 0;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+
+/* --------- GENERAL --------- */
+
+h2 {
+    text-align: center;
+}
+
+h3,
+h4,
+h5 {
+    margin: 0;
+}
+
+
+/* --------- HEADER --------- */
+
+#header {
+    background: #FFF;
+    background-image: none;
+    width: auto;
+    text-align: center;
+}
+
+#header h1 {
+    margin: 0;
+}
+
+#header img.logo {
+    vertical-align: middle;
+    margin: 10px 10px;
+    max-height: 60px;
+}
+
+#header .ulr-title span {
+    line-height: 1em;
+}
+
+#header .ulr-title span {
+    display: block;
+}
+
+#header .ulr-title strong {
+    font-weight: 700;
+}
+
+
+/* ----------- NAV ----------- */
+
+.form {
+    font-family: "roboto", sans-serif;
+    position: relative;
+    z-index: 1;
+    background-color: #FFFFFF;
+    opacity: 99;
+    max-width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px 45px 30px 45px;
+    border-radius: 10px;
+}
+
+.form input {
+    outline: 0;
+    border-radius: 10px;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+.form button{
+    text-transform: uppercase;
+    outline:0;
+    border-radius: 10px;
+    font-family: 'Nunito', sans-serif;
+    background: -webkit-linear-gradient(left,#d40a0a, #ec9f10);
+    width: 270px;
+    height: 40px;
+    border: 0;
+    padding-top: -13px;
+    font-size:14px; 
+    cursor: pointer;
+    border-spacing: inherit;
+    margin-left: 20px;
+    
+    
+}
+.form button:hover, .form button:active, .form button:focus{
+    background: -webkit-linear-gradient(left,#ec9f10, #d40a0a);
+      
+  }
+
+  div#le {
+    background-color: aquamarine;
+    text-align: center;
+    border-radius: 10px;
+}
+
+div#ls {
+    background-color: antiquewhite;
+    text-align: center;
+    border-radius: 10px;
+}
