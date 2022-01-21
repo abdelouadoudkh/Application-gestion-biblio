@@ -1,1 +1,1 @@
-# Projet-fin-d-tude-DUT-Application-gestion-biblioth-que-au-sein-d-cole-sup-rieure-de-technologie
+# Projet fin d'étude (DUT) Application gestion bibliothèque au sein d'école supérieur de technologie
